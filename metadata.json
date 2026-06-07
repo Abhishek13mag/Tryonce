@@ -1,0 +1,6 @@
+{
+  "name": "RetroRestore AI",
+  "description": "Restore old, scratched, faded, or damaged vintage photographs with an interactive side-by-side comparison slider and modern digital darkroom adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
